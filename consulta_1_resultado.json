@@ -1,0 +1,14 @@
+[
+  {
+    "nome_departamento": "Financeiro",
+    "media_salario_funcionarios_responsaveis": 5000.0
+  },
+  {
+    "nome_departamento": "Recursos Humanos",
+    "media_salario_funcionarios_responsaveis": 7000.0
+  },
+  {
+    "nome_departamento": "Tecnologia",
+    "media_salario_funcionarios_responsaveis": 3500.0
+  }
+]

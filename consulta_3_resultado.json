@@ -1,0 +1,14 @@
+[
+  {
+    "nome_departamento": "Financeiro",
+    "custo_total_projetos": 50000
+  },
+  {
+    "nome_departamento": "Recursos Humanos",
+    "custo_total_projetos": 100000
+  },
+  {
+    "nome_departamento": "Tecnologia",
+    "custo_total_projetos": 150000
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "nome_projeto": "Melhoria de Infraestrutura",
+    "custo_projeto": 250000,
+    "data_inicio": "2024-02-01",
+    "data_conclusao": "2024-08-01",
+    "nome_funcionario_responsavel": "Maria Oliveira"
+  },
+  {
+    "nome_projeto": "Desenvolvimento de App",
+    "custo_projeto": 200000,
+    "data_inicio": "2024-03-01",
+    "data_conclusao": "2024-10-01",
+    "nome_funcionario_responsavel": "Fernanda Costa"
+  },
+  {
+    "nome_projeto": "Reestruturação Organizacional",
+    "custo_projeto": 120000,
+    "data_inicio": "2023-10-01",
+    "data_conclusao": "2024-01-31",
+    "nome_funcionario_responsavel": "José Almeida"
+  },
+  {
+    "nome_projeto": "Integração de Sistemas",
+    "custo_projeto": 300000,
+    "data_inicio": "2023-11-01",
+    "data_conclusao": "2024-04-01",
+    "nome_funcionario_responsavel": "Lucas Pereira"
+  }
+]

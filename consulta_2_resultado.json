@@ -1,0 +1,14 @@
+[
+  {
+    "descricao_recurso": "Materiais sustentáveis",
+    "quantidade_total_utilizada": 100
+  },
+  {
+    "descricao_recurso": "Atualização de servidores",
+    "quantidade_total_utilizada": 10
+  },
+  {
+    "descricao_recurso": "Novos servidores",
+    "quantidade_total_utilizada": 5
+  }
+]
